@@ -3,7 +3,7 @@ Code for paper "Few-shot relation classification using clustering-based prototyp
 
 ## Link
 ```
-https://www.sciencedirect.com/science/article/abs/pii/S0950705123002277
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002277)
 ```
 
 ## Cite
