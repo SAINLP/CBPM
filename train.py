@@ -67,7 +67,7 @@ def main():
                         help='only test')
     parser.add_argument('--pretrain_ckpt', default='bert-base-uncased',
                         help='bert / roberta pre-trained checkpoint')
-    parser.add_argument('--seed', default=2020, type=int,
+    parser.add_argument('--seed', default=0, type=int,
                         help='seed')
     parser.add_argument('--path', default=None,
                         help='path to ckpt')
